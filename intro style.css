@@ -1,0 +1,23 @@
+body  {
+  font-family:sans-serif, arial, Times New Roman;
+}
+
+.header img {
+  float: left;
+  width: 150px;
+  height: 100px;
+  background:white;
+}
+
+.or{
+margin:100px;  
+}
+
+.btn{
+    padding: 10px;
+    border-color: red;
+    border-width: 1px;
+    border-style: solid;
+    width: 25%;
+    text-decoration:None;
+}

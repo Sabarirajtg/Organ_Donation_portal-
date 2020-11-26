@@ -1,0 +1,21 @@
+body  {
+  margin: 0;
+  padding: 0;
+  font-family:arial, Times New Roman;
+  background: url(hellopage.png) no-repeat;
+  background-size: cover;
+  font-size:35px;
+  }
+
+.text  {
+  color:white;
+
+}
+
+.link	
+{
+  margin:350px;
+
+}
+
+
